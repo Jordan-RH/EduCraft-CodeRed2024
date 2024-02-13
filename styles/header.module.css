@@ -1,0 +1,32 @@
+nav.header{
+    background-color: white;
+    color:black;
+    height: 80px;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.05);
+    z-index: 10;
+}   
+
+.page_title{
+    display: flex;
+    justify-content: center; /* Horizontal centering */
+    align-items: center; /* Vertical centering */
+    height: 100%; /* Ensure the parent container has a defined height */
+}
+
+.profile{
+    display: flex;
+    justify-content: center; /* Horizontal centering */
+    align-items: center; /* Vertical centering */
+    height: 100%; /* Ensure the parent container has a defined height */
+    gap:15px;
+}
+
+
+.profile p{
+    color: #959595;
+}

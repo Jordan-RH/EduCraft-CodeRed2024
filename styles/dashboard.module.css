@@ -1,0 +1,100 @@
+section.dashboard {
+  color: black;
+  display: flex;
+  flex-direction: column;
+}
+
+section.dashboard .cards {
+  padding: 20px;
+  gap: 15px;
+
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.card {
+
+  aspect-ratio: 1;
+  background-color: white;
+  border-radius: 20px;
+  flex-direction: column;
+  box-shadow: 0px 3px 15px 0px rgba(0, 0, 0, 0.15);
+  display: flex;
+  text-align: left;
+  padding: 20px;
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card .middle {
+  flex: auto;
+  color: #676767;
+}
+
+.card .footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card .footer .icons .trashicon:hover {
+  animation: shake 0.5s infinite;
+    cursor: pointer;
+}
+
+.card .footer .icons .edit {
+    transition: transform 0.2s;
+
+}
+
+.card .footer .icons .edit:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+@keyframes shake {
+  0% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-2px);
+  }
+  50% {
+    transform: translateX(2px);
+  }
+  75% {
+    transform: translateX(-2px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.searchbar{
+    width: 100%;
+}
+
+
+.card .footer .icons {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 5px;
+}
+
+.card.createnew {
+  border: 3px dashed #959595;
+  box-shadow: none;
+  display: flex;
+  color: #959595;
+  justify-content: center; /* Center items horizontally */
+  align-items: center; /* Center items vertically */
+  text-align: center;
+  cursor: pointer;
+}
+
+.card.createnew div p {
+  margin-bottom: 5px;
+}

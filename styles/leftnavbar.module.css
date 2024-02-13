@@ -1,0 +1,55 @@
+.leftnavbar {
+    background: rgb(16,38,54);
+    background: linear-gradient(23deg, rgba(16,38,54,1) 0%, rgba(8,106,172,1) 100%);
+    width: 280px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding-left: 30px;
+}
+
+.leftnavbar li{
+    list-style-type: none;
+    margin-top: 5px;
+    font-weight: 600;
+
+   
+}
+
+.navelement{
+    transition: color 0.2s;
+}
+
+.navelement.active{
+    color:white;
+}
+
+
+.navelement:hover{
+    color:white;
+}
+
+.leftnavbar ul{
+    padding-left: 15px;
+}
+
+
+.navelement{
+    display: flex;
+    align-items: center;
+    gap:10px;
+    color: #b9b9b9;
+}
+
+.logo{
+    height: 80px;
+    width: auto;
+}
+
+.navitem{
+    transition: transform 0.2s;
+}
+
+.navitem:hover{
+    transform: translateX(10px);
+}

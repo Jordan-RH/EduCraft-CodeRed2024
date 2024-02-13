@@ -1,0 +1,133 @@
+[
+    {
+      "question": "Where will CodeRED Genesis take place?",
+      "options": {
+        "A": "Student Center South, Houston Room (220)",
+        "B": "Student Center North, Room 110",
+        "C": "CougarCS Room, Houston",
+        "D": "CodeRED Venue, Room 445"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the address of the venue?",
+      "options": {
+        "A": "4455 University Dr. Houston, TX 77204",
+        "B": "220 Houston Room, CougarCS",
+        "C": "10th Avenue, Houston",
+        "D": "77204 Houston Dr., TX"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the opening time for Check-In on Day 1?",
+      "options": {
+        "A": "9:30 AM",
+        "B": "10:30 AM",
+        "C": "11:30 AM",
+        "D": "9 AM"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What will happen to unregistered hackers after 11 AM on Day 1?",
+      "options": {
+        "A": "They can still check-in.",
+        "B": "They will be accepted from the waitlist.",
+        "C": "Their place will be forfeited.",
+        "D": "They will be banned."
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "When does the hacking officially begin on Day 1?",
+      "options": {
+        "A": "1 PM",
+        "B": "12 PM",
+        "C": "2 PM",
+        "D": "3 PM"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What type of food will be provided for lunch on Day 1?",
+      "options": {
+        "A": "Pizza from Domino’s",
+        "B": "Bánh Mì from B&T",
+        "C": "Wraps from Salad And Go",
+        "D": "Sushi from K&S"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "At what time is the cut-off time to leave the venue on Day 1?",
+      "options": {
+        "A": "9 PM",
+        "B": "10 PM",
+        "C": "8 PM",
+        "D": "11 PM"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is scheduled for 10 PM on Day 1?",
+      "options": {
+        "A": "Closing Ceremony",
+        "B": "Ultimate Rock-Paper-Scissors",
+        "C": "CodeRED/CougarCS Kahoot",
+        "D": "Movie Night"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What activity is planned for 12 AM on Day 2?",
+      "options": {
+        "A": "Hacking Begins",
+        "B": "Painting with Hackers",
+        "C": "Check-Out",
+        "D": "Midnight Snack"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What will be served for breakfast on Day 2?",
+      "options": {
+        "A": "Donuts, & Kolaches from Shipley’s",
+        "B": "Breakfast Burritos",
+        "C": "Bagels and Cream Cheese",
+        "D": "Pancakes and Syrup"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which garage can Non-UH Students park in?",
+      "options": {
+        "A": "Elgin Garage",
+        "B": "Welcome Center Visitor Garage",
+        "C": "Student Center South Garage",
+        "D": "CougarCS Garage"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What must UH Students with a VALID Parking Permit be aware of?",
+      "options": {
+        "A": "No parking in Lot 19D or 21B",
+        "B": "No parking in Zone C",
+        "C": "No parking in Elgin Garage",
+        "D": "No overnight parking"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What should participants do through the Discord server?",
+      "options": {
+        "A": "Find their parking spot",
+        "B": "Form Teams, get Event Schedule, and more",
+        "C": "Order food for lunch",
+        "D": "Schedule a workshop"
+      },
+      "correct_answer": "B"
+    }
+  ]
+  
