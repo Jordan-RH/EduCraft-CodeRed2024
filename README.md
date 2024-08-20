@@ -41,9 +41,10 @@ There's many features we came up with that we couldn't get to for this hackathon
 
 # Preview (Desktop)
 
-![Login Page](https://media.discordapp.net/attachments/1066155376598335498/1275258797056720917/Educraft_1.png?ex=66c53cce&is=66c3eb4e&hm=52bce8d74d1b5b1bb7c9885f8fa539c6209c9eb28ef352bd5102869457f06519&=&format=webp&quality=lossless)
-![Quizzes](https://cdn.discordapp.com/attachments/1066155376598335498/1275258797413105776/Educraft_2.png?ex=66c53cce&is=66c3eb4e&hm=e93131ea96f9a95fc0353e9a7b9d8bc7d6e832871bfad5bedbe132578bcffa0b&)
-![Quiz Editor](https://cdn.discordapp.com/attachments/1066155376598335498/1275258797866225767/Educraft_3.png?ex=66c53cce&is=66c3eb4e&hm=8900c37e2ebda91adda8568ff4556f0fb09e97a9659a0b1862128649bf05ac68&)
+![Login Page](https://cdn.discordapp.com/attachments/1057961536322277406/1275267189624148074/Educraft_1.png?ex=66c5449f&is=66c3f31f&hm=c0fd1433944b0c6839865671aba8475b7b8fe75c5eb87cf91fd134c757eb8221&)
+![Quizzes](https://cdn.discordapp.com/attachments/1057961536322277406/1275267190043705364/Educraft_2.png?ex=66c5449f&is=66c3f31f&hm=df0974c015cb9d5e3a87d86ceee46e191a0e3e251d0ab64fa0277ec02744ebe6&)
+![Quiz Editor](https://cdn.discordapp.com/attachments/1057961536322277406/1275267190475587744/Educraft_3.png?ex=66c5449f&is=66c3f31f&hm=ea6c7c2b7f8a68f06c82cd0c507d2b3b98858d1d248a5b70f79c61c18831a8d5&)
+![Quiz](https://cdn.discordapp.com/attachments/1057961536322277406/1275267190932635763/Educraft_4.png?ex=66c5449f&is=66c3f31f&hm=a44310bf3b62e9d69fac99f68fc59852723118260cbc355fc57fef488e09d13e&)
 
 
 # Preview (Mobile)
